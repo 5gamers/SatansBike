@@ -1,0 +1,896 @@
+fileFormatVersion: 2
+guid: 59406229ea0371749ab40c2bca1c464d
+timeCreated: 1455233576
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: murilo_0
+    21300002: murilo_1
+    21300004: murilo_2
+    21300006: murilo_3
+    21300008: murilo_4
+    21300010: murilo_5
+    21300012: murilo_6
+    21300014: murilo_7
+    21300016: murilo_8
+    21300018: murilo_9
+    21300020: murilo_10
+    21300022: murilo_11
+    21300024: murilo_12
+    21300026: murilo_13
+    21300028: murilo_14
+    21300030: murilo_15
+    21300032: murilo_16
+    21300034: murilo_17
+    21300036: murilo_18
+    21300038: murilo_19
+    21300040: murilo_20
+    21300042: murilo_21
+    21300044: murilo_22
+    21300046: murilo_23
+    21300048: murilo_24
+    21300050: murilo_25
+    21300052: murilo_26
+    21300054: murilo_27
+    21300056: murilo_28
+    21300058: murilo_29
+    21300060: murilo_30
+    21300062: murilo_31
+    21300064: murilo_32
+    21300066: murilo_33
+    21300068: murilo_34
+    21300070: murilo_35
+    21300072: murilo_36
+    21300074: murilo_37
+    21300076: murilo_38
+    21300078: murilo_39
+    21300080: murilo_40
+    21300082: murilo_41
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: murilo_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 621
+        width: 82
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19, y: 22}
+        - {x: -41, y: 17}
+        - {x: -41, y: -13}
+        - {x: -31, y: -22}
+        - {x: 13, y: -22}
+        - {x: 41, y: -9}
+        - {x: 41, y: 15}
+        - {x: 36, y: 22}
+    - name: murilo_1
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 621
+        width: 79
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24.5, y: 22}
+        - {x: -39.5, y: 18}
+        - {x: -39.5, y: -17}
+        - {x: -37.5, y: -22}
+        - {x: 11.5, y: -22}
+        - {x: 39.5, y: -5}
+        - {x: 39.5, y: 13}
+        - {x: 30.5, y: 22}
+    - name: murilo_2
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 621
+        width: 76
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25, y: 22}
+        - {x: -38, y: 18}
+        - {x: -38, y: -22}
+        - {x: 17, y: -22}
+        - {x: 38, y: -2}
+        - {x: 38, y: 20}
+        - {x: 33, y: 22}
+    - name: murilo_3
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 621
+        width: 74
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31, y: 22}
+        - {x: -37, y: 20}
+        - {x: -37, y: -8}
+        - {x: -34, y: -9}
+        - {x: -33, y: -18}
+        - {x: -32, y: -22}
+        - {x: 5, y: -22}
+        - {x: 37, y: -2}
+        - {x: 37, y: 17}
+        - {x: 35, y: 22}
+    - name: murilo_4
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 533
+        width: 45
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9.5, y: 36}
+        - {x: -22.5, y: 22}
+        - {x: -22.5, y: -32}
+        - {x: -21.5, y: -36}
+        - {x: 22.5, y: -36}
+        - {x: 22.5, y: 12}
+        - {x: 10.5, y: 36}
+    - name: murilo_5
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 533
+        width: 45
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11.5, y: 36}
+        - {x: -22.5, y: 7}
+        - {x: -22.5, y: -26}
+        - {x: -19.5, y: -36}
+        - {x: 22.5, y: -36}
+        - {x: 22.5, y: 13}
+        - {x: 10.5, y: 36}
+    - name: murilo_6
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 533
+        width: 45
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.5, y: 36}
+        - {x: -22.5, y: 17}
+        - {x: -22.5, y: -28}
+        - {x: -15.5, y: -36}
+        - {x: 6.5, y: -36}
+        - {x: 21.5, y: -30}
+        - {x: 22.5, y: -20}
+        - {x: 22.5, y: 12}
+        - {x: 10.5, y: 36}
+    - name: murilo_7
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 533
+        width: 46
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11, y: 36}
+        - {x: -15, y: 36}
+        - {x: -23, y: 13}
+        - {x: -23, y: -32}
+        - {x: -16, y: -36}
+        - {x: 22, y: -36}
+        - {x: 23, y: -31}
+        - {x: 23, y: 17}
+    - name: murilo_8
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 533
+        width: 45
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20.5, y: 36}
+        - {x: -22.5, y: 24}
+        - {x: -22.5, y: -32}
+        - {x: -14.5, y: -36}
+        - {x: 17.5, y: -36}
+        - {x: 19.5, y: -35}
+        - {x: 22.5, y: -28}
+        - {x: 22.5, y: 36}
+    - name: murilo_9
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 533
+        width: 46
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 36}
+        - {x: -23, y: 17}
+        - {x: -23, y: -24}
+        - {x: -16, y: -36}
+        - {x: 23, y: -36}
+        - {x: 23, y: 25}
+        - {x: 11, y: 36}
+    - name: murilo_10
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 455
+        width: 50
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 33.5}
+        - {x: -25, y: 4.5}
+        - {x: -25, y: -33.5}
+        - {x: 22, y: -33.5}
+        - {x: 25, y: -19.5}
+        - {x: 25, y: 33.5}
+    - name: murilo_11
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 454
+        width: 74
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 30.5}
+        - {x: -32, y: 17.5}
+        - {x: -37, y: -2.5}
+        - {x: -37, y: -15.5}
+        - {x: -22, y: -30.5}
+        - {x: 16, y: -30.5}
+        - {x: 37, y: 4.5}
+        - {x: 37, y: 30.5}
+    - name: murilo_12
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 451
+        width: 76
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 31}
+        - {x: -38, y: 25}
+        - {x: -38, y: -23}
+        - {x: -25, y: -31}
+        - {x: 6, y: -31}
+        - {x: 13, y: -24}
+        - {x: 38, y: 2}
+        - {x: 38, y: 31}
+    - name: murilo_13
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 452
+        width: 51
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.5, y: 34}
+        - {x: -25.5, y: 16}
+        - {x: -25.5, y: -34}
+        - {x: 17.5, y: -34}
+        - {x: 25.5, y: -12}
+        - {x: 25.5, y: 16}
+        - {x: 16.5, y: 34}
+    - name: murilo_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 383
+        width: 92
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 39, y: 22.5}
+        - {x: -29, y: 22.5}
+        - {x: -46, y: 20.5}
+        - {x: -46, y: -18.5}
+        - {x: -45, y: -22.5}
+        - {x: 22, y: -22.5}
+        - {x: 35, y: -13.5}
+        - {x: 46, y: -0.5}
+        - {x: 46, y: 15.5}
+    - name: murilo_15
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 383
+        width: 121
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -56.5, y: 22.5}
+        - {x: -60.5, y: 13.5}
+        - {x: -60.5, y: 1.5}
+        - {x: -57.5, y: 2.5}
+        - {x: -59.5, y: -4.5}
+        - {x: -48.5, y: -22.5}
+        - {x: 40.5, y: -22.5}
+        - {x: 60.5, y: -14.5}
+        - {x: 60.5, y: 22.5}
+    - name: murilo_16
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 384
+        width: 140
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 61, y: 22.5}
+        - {x: -5, y: 22.5}
+        - {x: -70, y: 16.5}
+        - {x: -70, y: -2.5}
+        - {x: -24, y: -22.5}
+        - {x: 33, y: -22.5}
+        - {x: 62, y: -17.5}
+        - {x: 70, y: -3.5}
+        - {x: 70, y: 15.5}
+    - name: murilo_17
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 312
+        width: 146
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -73, y: 22}
+        - {x: -73, y: -18}
+        - {x: -69, y: -22}
+        - {x: 65, y: -22}
+        - {x: 66, y: -21}
+        - {x: 73, y: -4}
+        - {x: 73, y: 17}
+        - {x: 70, y: 22}
+    - name: murilo_18
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 312
+        width: 140
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -50, y: 22}
+        - {x: -70, y: 16}
+        - {x: -70, y: -4}
+        - {x: -12, y: -22}
+        - {x: 47, y: -22}
+        - {x: 70, y: -14}
+        - {x: 70, y: 20}
+        - {x: 62, y: 22}
+    - name: murilo_19
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 311
+        width: 147
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -36.5, y: 22.5}
+        - {x: -73.5, y: 19.5}
+        - {x: -73.5, y: -17.5}
+        - {x: -38.5, y: -22.5}
+        - {x: 73.5, y: -22.5}
+        - {x: 73.5, y: 13.5}
+        - {x: 65.5, y: 22.5}
+      - - {x: 67.5, y: -19.5}
+        - {x: 68.5, y: -22.5}
+        - {x: 71.5, y: -22.5}
+        - {x: 73.5, y: -20.5}
+        - {x: 73.5, y: -17.5}
+        - {x: 71.5, y: -16.5}
+    - name: murilo_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 243
+        width: 82
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 33, y: 22.5}
+        - {x: -28, y: 22.5}
+        - {x: -41, y: 14.5}
+        - {x: -41, y: 3.5}
+        - {x: -38, y: -8.5}
+        - {x: -32, y: -22.5}
+        - {x: 4, y: -22.5}
+        - {x: 41, y: -14.5}
+        - {x: 41, y: 9.5}
+        - {x: 39, y: 13.5}
+    - name: murilo_21
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 243
+        width: 73
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -33.5, y: 22.5}
+        - {x: -36.5, y: 20.5}
+        - {x: -36.5, y: -8.5}
+        - {x: -29.5, y: -22.5}
+        - {x: 4.5, y: -22.5}
+        - {x: 36.5, y: -17.5}
+        - {x: 36.5, y: 21.5}
+        - {x: 35.5, y: 22.5}
+    - name: murilo_22
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 243
+        width: 69
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22.5, y: 22}
+        - {x: -34.5, y: 20}
+        - {x: -34.5, y: -16}
+        - {x: -31.5, y: -22}
+        - {x: 11.5, y: -22}
+        - {x: 34.5, y: -19}
+        - {x: 34.5, y: 14}
+        - {x: 30.5, y: 22}
+    - name: murilo_23
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 243
+        width: 74
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27, y: 22.5}
+        - {x: -37, y: 17.5}
+        - {x: -37, y: -16.5}
+        - {x: -35, y: -22.5}
+        - {x: 10, y: -22.5}
+        - {x: 37, y: -15.5}
+        - {x: 37, y: 17.5}
+        - {x: 30, y: 22.5}
+    - name: murilo_24
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 172
+        width: 75
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28.5, y: 22.5}
+        - {x: -37.5, y: 17.5}
+        - {x: -37.5, y: -22.5}
+        - {x: 26.5, y: -22.5}
+        - {x: 37.5, y: -11.5}
+        - {x: 37.5, y: 12.5}
+        - {x: 30.5, y: 22.5}
+    - name: murilo_25
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 170
+        width: 77
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -30.5, y: 22}
+        - {x: -38.5, y: 18}
+        - {x: -38.5, y: -11}
+        - {x: -28.5, y: -22}
+        - {x: 13.5, y: -22}
+        - {x: 38.5, y: -14}
+        - {x: 38.5, y: 10}
+        - {x: 32.5, y: 22}
+    - name: murilo_26
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 172
+        width: 70
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 29, y: 22}
+        - {x: -21, y: 22}
+        - {x: -35, y: 12}
+        - {x: -35, y: -7}
+        - {x: -31, y: -10}
+        - {x: -31, y: -22}
+        - {x: 35, y: -22}
+        - {x: 35, y: 5}
+        - {x: 33, y: 15}
+    - name: murilo_27
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 185
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: murilo_28
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 95
+        width: 82
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 22}
+        - {x: -41, y: 17}
+        - {x: -41, y: -3}
+        - {x: -31, y: -22}
+        - {x: 5, y: -22}
+        - {x: 34, y: -19}
+        - {x: 41, y: -5}
+        - {x: 41, y: 21}
+        - {x: 40, y: 22}
+    - name: murilo_29
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 95
+        width: 75
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20.5, y: 22}
+        - {x: -37.5, y: 16}
+        - {x: -37.5, y: -3}
+        - {x: -31.5, y: -22}
+        - {x: 15.5, y: -22}
+        - {x: 37.5, y: -7}
+        - {x: 37.5, y: 13}
+        - {x: 31.5, y: 22}
+    - name: murilo_30
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 97
+        width: 73
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21.5, y: 22.5}
+        - {x: -36.5, y: 13.5}
+        - {x: -36.5, y: -1.5}
+        - {x: -27.5, y: -22.5}
+        - {x: 7.5, y: -22.5}
+        - {x: 36.5, y: -7.5}
+        - {x: 36.5, y: 12.5}
+        - {x: 24.5, y: 22.5}
+    - name: murilo_31
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 98
+        width: 70
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19, y: 22}
+        - {x: -35, y: 14}
+        - {x: -35, y: -5}
+        - {x: -32, y: -8}
+        - {x: -29, y: -22}
+        - {x: 12, y: -22}
+        - {x: 35, y: -7}
+        - {x: 35, y: 12}
+        - {x: 27, y: 22}
+    - name: murilo_32
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 94
+        width: 75
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 35.5, y: 22.5}
+        - {x: -37.5, y: 22.5}
+        - {x: -37.5, y: -8.5}
+        - {x: -31.5, y: -22.5}
+        - {x: 5.5, y: -22.5}
+        - {x: 12.5, y: -21.5}
+        - {x: 36.5, y: -13.5}
+        - {x: 37.5, y: -8.5}
+        - {x: 37.5, y: 20.5}
+    - name: murilo_33
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 97
+        width: 70
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 22.5}
+        - {x: -28, y: 19.5}
+        - {x: -35, y: 13.5}
+        - {x: -35, y: -7.5}
+        - {x: -32, y: -8.5}
+        - {x: -29, y: -21.5}
+        - {x: -29, y: -22.5}
+        - {x: 3, y: -22.5}
+        - {x: 13, y: -21.5}
+        - {x: 35, y: -7.5}
+        - {x: 35, y: 18.5}
+        - {x: 27, y: 22.5}
+    - name: murilo_34
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 101
+        width: 73
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28.5, y: 22.5}
+        - {x: -36.5, y: 12.5}
+        - {x: -36.5, y: -13.5}
+        - {x: -33.5, y: -22.5}
+        - {x: 12.5, y: -22.5}
+        - {x: 36.5, y: -16.5}
+        - {x: 36.5, y: 14.5}
+        - {x: 31.5, y: 22.5}
+    - name: murilo_35
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 7
+        width: 49
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.5, y: 37}
+        - {x: -24.5, y: 23}
+        - {x: -24.5, y: -22}
+        - {x: -20.5, y: -37}
+        - {x: 13.5, y: -37}
+        - {x: 24.5, y: -28}
+        - {x: 24.5, y: 19}
+        - {x: 12.5, y: 37}
+    - name: murilo_36
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 12
+        width: 59
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13.5, y: 33.5}
+        - {x: -29.5, y: 33.5}
+        - {x: -29.5, y: -21.5}
+        - {x: -4.5, y: -33.5}
+        - {x: 19.5, y: -33.5}
+        - {x: 26.5, y: -19.5}
+        - {x: 29.5, y: -9.5}
+        - {x: 29.5, y: 10.5}
+    - name: murilo_37
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 19
+        width: 72
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -36, y: 26}
+        - {x: -36, y: -15}
+        - {x: -15, y: -26}
+        - {x: 33, y: -26}
+        - {x: 36, y: -23}
+        - {x: 36, y: 26}
+    - name: murilo_38
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 8
+        width: 49
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24.5, y: 36.5}
+        - {x: -24.5, y: -31.5}
+        - {x: -17.5, y: -36.5}
+        - {x: 13.5, y: -36.5}
+        - {x: 24.5, y: -21.5}
+        - {x: 24.5, y: 22.5}
+        - {x: 20.5, y: 36.5}
+    - name: murilo_39
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 15
+        width: 70
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26, y: 28}
+        - {x: -35, y: 24}
+        - {x: -35, y: -28}
+        - {x: 19, y: -28}
+        - {x: 35, y: -11}
+        - {x: 35, y: 28}
+    - name: murilo_40
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 17
+        width: 70
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4, y: 27}
+        - {x: -23, y: 27}
+        - {x: -35, y: 19}
+        - {x: -35, y: -16}
+        - {x: -32, y: -27}
+        - {x: 35, y: -27}
+        - {x: 35, y: 21}
+        - {x: 24, y: 20}
+    - name: murilo_41
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 14
+        width: 54
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 36.5}
+        - {x: -27, y: 27.5}
+        - {x: -27, y: -14.5}
+        - {x: -13, y: -36.5}
+        - {x: 27, y: -36.5}
+        - {x: 27, y: 29.5}
+        - {x: 26, y: 36.5}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

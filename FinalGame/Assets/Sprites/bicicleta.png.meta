@@ -1,0 +1,1363 @@
+fileFormatVersion: 2
+guid: 1eec145a92002a84ab2392ae7585dd91
+timeCreated: 1455233087
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: bicicleta_0
+    21300002: bicicleta_1
+    21300004: bicicleta_2
+    21300006: bicicleta_3
+    21300008: bicicleta_4
+    21300010: bicicleta_5
+    21300012: bicicleta_6
+    21300014: bicicleta_7
+    21300016: bicicleta_8
+    21300018: bicicleta_9
+    21300020: bicicleta_10
+    21300022: bicicleta_11
+    21300024: bicicleta_12
+    21300026: bicicleta_13
+    21300028: bicicleta_14
+    21300030: bicicleta_15
+    21300032: bicicleta_16
+    21300034: bicicleta_17
+    21300036: bicicleta_18
+    21300038: bicicleta_19
+    21300040: bicicleta_20
+    21300042: bicicleta_21
+    21300044: bicicleta_22
+    21300046: bicicleta_23
+    21300048: bicicleta_24
+    21300050: bicicleta_25
+    21300052: bicicleta_26
+    21300054: bicicleta_27
+    21300056: bicicleta_28
+    21300058: bicicleta_29
+    21300060: bicicleta_30
+    21300062: bicicleta_31
+    21300064: bicicleta_32
+    21300066: bicicleta_33
+    21300068: bicicleta_34
+    21300070: bicicleta_35
+    21300072: bicicleta_36
+    21300074: bicicleta_37
+    21300076: bicicleta_38
+    21300078: bicicleta_39
+    21300080: bicicleta_40
+    21300082: bicicleta_41
+    21300084: bicicleta_42
+    21300086: bicicleta_43
+    21300088: bicicleta_44
+    21300090: bicicleta_45
+    21300092: bicicleta_46
+    21300094: bicicleta_47
+    21300096: bicicleta_48
+    21300098: bicicleta_49
+    21300100: bicicleta_50
+    21300102: bicicleta_51
+    21300104: bicicleta_52
+    21300106: bicicleta_53
+    21300108: bicicleta_54
+    21300110: bicicleta_55
+    21300112: bicicleta_56
+    21300114: bicicleta_57
+    21300116: bicicleta_58
+    21300118: bicicleta_59
+    21300120: bicicleta_60
+    21300122: bicicleta_61
+    21300124: bicicleta_62
+    21300126: bicicleta_63
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: bicicleta_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7, y: 26}
+        - {x: -17, y: 26}
+        - {x: -32, y: -3}
+        - {x: -32, y: -20}
+        - {x: -19, y: -24}
+        - {x: 23, y: -24}
+        - {x: 32, y: -18}
+        - {x: 32, y: 1}
+        - {x: 19, y: 21}
+    - name: bicicleta_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 26}
+        - {x: -31, y: 10}
+        - {x: -31, y: -22}
+        - {x: -14, y: -24}
+        - {x: 19, y: -24}
+        - {x: 32, y: -19}
+        - {x: 32, y: 13}
+        - {x: 6, y: 26}
+    - name: bicicleta_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7, y: 26}
+        - {x: -18, y: 26}
+        - {x: -32, y: 0}
+        - {x: -32, y: -13}
+        - {x: -27, y: -22}
+        - {x: 32, y: -22}
+        - {x: 32, y: 6}
+        - {x: 19, y: 21}
+    - name: bicicleta_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 26}
+        - {x: -31, y: 0}
+        - {x: -31, y: -19}
+        - {x: -21, y: -21}
+        - {x: 22, y: -21}
+        - {x: 32, y: -19}
+        - {x: 32, y: 16}
+        - {x: 11, y: 26}
+    - name: bicicleta_4
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7, y: 26}
+        - {x: -17, y: 26}
+        - {x: -32, y: -3}
+        - {x: -32, y: -20}
+        - {x: -28, y: -21}
+        - {x: 24, y: -21}
+        - {x: 30, y: -19}
+        - {x: 32, y: -16}
+        - {x: 32, y: 1}
+        - {x: 19, y: 21}
+    - name: bicicleta_5
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22, y: 26}
+        - {x: -31, y: 1}
+        - {x: -31, y: -19}
+        - {x: -13, y: -22}
+        - {x: 19, y: -22}
+        - {x: 32, y: -18}
+        - {x: 32, y: 12}
+        - {x: 10, y: 26}
+    - name: bicicleta_6
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7, y: 26}
+        - {x: -18, y: 26}
+        - {x: -32, y: 0}
+        - {x: -32, y: -15}
+        - {x: -28, y: -22}
+        - {x: 32, y: -22}
+        - {x: 32, y: 1}
+        - {x: 19, y: 21}
+    - name: bicicleta_7
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22, y: 26}
+        - {x: -31, y: 10}
+        - {x: -31, y: -22}
+        - {x: -16, y: -23}
+        - {x: 13, y: -23}
+        - {x: 32, y: -18}
+        - {x: 32, y: 17}
+        - {x: 14, y: 26}
+    - name: bicicleta_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 28, y: -27}
+        - {x: 28, y: 7}
+        - {x: 17, y: 27}
+        - {x: -8, y: 27}
+        - {x: -23, y: 22}
+        - {x: -23, y: -27}
+    - name: bicicleta_9
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5, y: 14}
+        - {x: 8, y: 26}
+        - {x: 8, y: 27}
+        - {x: -6, y: 27}
+        - {x: -23, y: 19}
+        - {x: -23, y: -10}
+        - {x: -12, y: -27}
+        - {x: 24, y: -27}
+        - {x: 28, y: -22}
+        - {x: 25, y: -9}
+        - {x: 16, y: 12}
+    - name: bicicleta_10
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 27}
+        - {x: -23, y: 22}
+        - {x: -23, y: -12}
+        - {x: -8, y: -23}
+        - {x: 3, y: -26}
+        - {x: 10, y: -27}
+        - {x: 25, y: -27}
+        - {x: 27, y: -24}
+        - {x: 27, y: -11}
+        - {x: 11, y: 27}
+    - name: bicicleta_11
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5, y: 14}
+        - {x: 8, y: 26}
+        - {x: 7, y: 27}
+        - {x: -1, y: 27}
+        - {x: -16, y: 23}
+        - {x: -23, y: 19}
+        - {x: -23, y: -13}
+        - {x: -7, y: -23}
+        - {x: 13, y: -27}
+        - {x: 27, y: -27}
+        - {x: 28, y: -25}
+        - {x: 28, y: -16}
+        - {x: 16, y: 12}
+    - name: bicicleta_12
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 27}
+        - {x: -23, y: 22}
+        - {x: -23, y: -16}
+        - {x: 6, y: -27}
+        - {x: 28, y: -27}
+        - {x: 28, y: -8}
+        - {x: 10, y: 27}
+    - name: bicicleta_13
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5, y: 14}
+        - {x: 9, y: 26}
+        - {x: 5, y: 27}
+        - {x: -8, y: 27}
+        - {x: -23, y: 20}
+        - {x: -23, y: -15}
+        - {x: -2, y: -27}
+        - {x: 25, y: -27}
+        - {x: 28, y: -22}
+        - {x: 25, y: -9}
+        - {x: 16, y: 12}
+    - name: bicicleta_14
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -27}
+        - {x: 26, y: -27}
+        - {x: 28, y: -25}
+        - {x: 28, y: -7}
+        - {x: 10, y: 27}
+        - {x: -9, y: 27}
+        - {x: -23, y: 22}
+        - {x: -23, y: -15}
+    - name: bicicleta_15
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9, y: 27}
+        - {x: -18, y: 27}
+        - {x: -23, y: 15}
+        - {x: -23, y: -9}
+        - {x: -5, y: -26}
+        - {x: 5, y: -27}
+        - {x: 25, y: -27}
+        - {x: 28, y: -25}
+        - {x: 28, y: -14}
+        - {x: 21, y: 14}
+    - name: bicicleta_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 25}
+        - {x: -18, y: -27}
+        - {x: -5, y: -31}
+        - {x: 7, y: -31}
+        - {x: 26, y: -9}
+        - {x: 26, y: 21}
+        - {x: 24, y: 25}
+    - name: bicicleta_17
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16, y: 25}
+        - {x: -18, y: 25}
+        - {x: -18, y: -10}
+        - {x: -16, y: -24}
+        - {x: -4, y: -31}
+        - {x: 8, y: -31}
+        - {x: 23, y: -10}
+        - {x: 26, y: -4}
+        - {x: 26, y: 10}
+    - name: bicicleta_18
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 25}
+        - {x: -18, y: -14}
+        - {x: -9, y: -31}
+        - {x: 14, y: -31}
+        - {x: 26, y: -26}
+        - {x: 26, y: 11}
+        - {x: 17, y: 25}
+    - name: bicicleta_19
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 25}
+        - {x: -18, y: -16}
+        - {x: -17, y: -22}
+        - {x: -6, y: -29}
+        - {x: -3, y: -31}
+        - {x: 8, y: -31}
+        - {x: 26, y: -12}
+        - {x: 26, y: 19}
+        - {x: 23, y: 25}
+    - name: bicicleta_20
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 25}
+        - {x: -18, y: -20}
+        - {x: -7, y: -31}
+        - {x: 26, y: -31}
+        - {x: 26, y: 25}
+    - name: bicicleta_21
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 25}
+        - {x: -18, y: -20}
+        - {x: -6, y: -31}
+        - {x: 5, y: -31}
+        - {x: 26, y: -24}
+        - {x: 26, y: 25}
+    - name: bicicleta_22
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 23, y: 25}
+        - {x: -18, y: 25}
+        - {x: -18, y: -20}
+        - {x: -6, y: -29}
+        - {x: -2, y: -31}
+        - {x: 7, y: -31}
+        - {x: 21, y: -19}
+        - {x: 26, y: -13}
+        - {x: 26, y: 19}
+    - name: bicicleta_23
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16, y: 25}
+        - {x: -18, y: 25}
+        - {x: -18, y: -6}
+        - {x: -17, y: -15}
+        - {x: -5, y: -31}
+        - {x: 3, y: -31}
+        - {x: 19, y: -23}
+        - {x: 26, y: -4}
+        - {x: 26, y: 6}
+        - {x: 25, y: 11}
+    - name: bicicleta_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7, y: 28}
+        - {x: -20, y: 28}
+        - {x: -24, y: 4}
+        - {x: -24, y: -26}
+        - {x: -23, y: -27}
+        - {x: 2, y: -27}
+        - {x: 29, y: -11}
+        - {x: 29, y: 7}
+        - {x: 19, y: 25}
+    - name: bicicleta_25
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6, y: 28}
+        - {x: -18, y: 28}
+        - {x: -24, y: 20}
+        - {x: -24, y: -27}
+        - {x: -7, y: -27}
+        - {x: 19, y: -18}
+        - {x: 29, y: -8}
+        - {x: 29, y: 0}
+        - {x: 19, y: 26}
+    - name: bicicleta_26
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6, y: 28}
+        - {x: -18, y: 28}
+        - {x: -24, y: 17}
+        - {x: -24, y: -27}
+        - {x: -4, y: -27}
+        - {x: 19, y: -20}
+        - {x: 29, y: -8}
+        - {x: 29, y: 0}
+        - {x: 19, y: 26}
+    - name: bicicleta_27
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: 28}
+        - {x: -7, y: 28}
+        - {x: -8, y: 27}
+        - {x: -6, y: 20}
+        - {x: -13, y: 14}
+        - {x: -24, y: -9}
+        - {x: -24, y: -20}
+        - {x: -22, y: -27}
+        - {x: 5, y: -27}
+        - {x: 29, y: -13}
+        - {x: 29, y: 7}
+        - {x: 16, y: 23}
+    - name: bicicleta_28
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 28}
+        - {x: -24, y: 7}
+        - {x: -24, y: -25}
+        - {x: -23, y: -27}
+        - {x: -2, y: -27}
+        - {x: 8, y: -26}
+        - {x: 29, y: -13}
+        - {x: 29, y: 6}
+        - {x: 13, y: 28}
+    - name: bicicleta_29
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: 28}
+        - {x: -17, y: 28}
+        - {x: -24, y: 6}
+        - {x: -24, y: -25}
+        - {x: -23, y: -27}
+        - {x: -4, y: -27}
+        - {x: 5, y: -26}
+        - {x: 29, y: -8}
+        - {x: 29, y: 0}
+        - {x: 16, y: 23}
+    - name: bicicleta_30
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 28}
+        - {x: -16, y: 16}
+        - {x: -24, y: -10}
+        - {x: -24, y: -26}
+        - {x: -23, y: -27}
+        - {x: 15, y: -27}
+        - {x: 29, y: -18}
+        - {x: 29, y: 9}
+        - {x: 11, y: 28}
+    - name: bicicleta_31
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 24, y: 18}
+        - {x: 6, y: 28}
+        - {x: -18, y: 28}
+        - {x: -24, y: 6}
+        - {x: -24, y: -24}
+        - {x: -23, y: -27}
+        - {x: -10, y: -27}
+        - {x: 8, y: -24}
+        - {x: 14, y: -20}
+        - {x: 29, y: -5}
+    - name: bicicleta_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 27}
+        - {x: -24, y: 26}
+        - {x: -32, y: 5}
+        - {x: -32, y: -17}
+        - {x: -30, y: -21}
+        - {x: 32, y: -21}
+        - {x: 32, y: 4}
+        - {x: 21, y: 27}
+    - name: bicicleta_33
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10, y: -18}
+        - {x: 13, y: -19}
+        - {x: 32, y: -20}
+        - {x: 32, y: 7}
+        - {x: 22, y: 27}
+        - {x: -20, y: 27}
+        - {x: -24, y: 26}
+        - {x: -32, y: 3}
+        - {x: -32, y: -15}
+        - {x: -27, y: -21}
+        - {x: 6, y: -21}
+        - {x: 7, y: -18}
+        - {x: 7, y: -15}
+    - name: bicicleta_34
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 21, y: 27}
+        - {x: -29, y: 27}
+        - {x: -32, y: 11}
+        - {x: -32, y: -22}
+        - {x: 22, y: -22}
+        - {x: 32, y: -18}
+        - {x: 32, y: -1}
+        - {x: 31, y: 1}
+    - name: bicicleta_35
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 27}
+        - {x: -24, y: 26}
+        - {x: -32, y: 10}
+        - {x: -32, y: -18}
+        - {x: -23, y: -23}
+        - {x: 25, y: -23}
+        - {x: 32, y: -20}
+        - {x: 32, y: 7}
+        - {x: 21, y: 27}
+    - name: bicicleta_36
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25, y: 27}
+        - {x: -32, y: 4}
+        - {x: -32, y: -24}
+        - {x: 32, y: -24}
+        - {x: 32, y: 8}
+        - {x: 22, y: 27}
+    - name: bicicleta_37
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32, y: -14}
+        - {x: -31, y: -16}
+        - {x: -21, y: -23}
+        - {x: 22, y: -23}
+        - {x: 32, y: -21}
+        - {x: 32, y: -1}
+        - {x: 16, y: 27}
+        - {x: 1, y: 27}
+        - {x: -18, y: 19}
+        - {x: -32, y: 0}
+    - name: bicicleta_38
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 27}
+        - {x: -19, y: 20}
+        - {x: -32, y: -2}
+        - {x: -32, y: -14}
+        - {x: -26, y: -22}
+        - {x: 12, y: -22}
+        - {x: 32, y: -20}
+        - {x: 32, y: 8}
+        - {x: 14, y: 27}
+    - name: bicicleta_39
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25, y: 27}
+        - {x: -32, y: 8}
+        - {x: -32, y: -17}
+        - {x: -29, y: -21}
+        - {x: 32, y: -21}
+        - {x: 32, y: 6}
+        - {x: 21, y: 27}
+    - name: bicicleta_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 21}
+        - {x: -24, y: 14}
+        - {x: -24, y: -5}
+        - {x: -17, y: -21}
+        - {x: 4, y: -27}
+        - {x: 25, y: -27}
+        - {x: 29, y: -26}
+        - {x: 30, y: -23}
+        - {x: 30, y: 14}
+        - {x: 25, y: 21}
+    - name: bicicleta_41
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19, y: 21}
+        - {x: -24, y: 10}
+        - {x: -24, y: -6}
+        - {x: -13, y: -20}
+        - {x: 6, y: -27}
+        - {x: 23, y: -27}
+        - {x: 28, y: -25}
+        - {x: 30, y: -1}
+        - {x: 30, y: 1}
+        - {x: 25, y: 21}
+    - name: bicicleta_42
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 21}
+        - {x: -24, y: -14}
+        - {x: 1, y: -27}
+        - {x: 25, y: -27}
+        - {x: 28, y: -25}
+        - {x: 30, y: -4}
+        - {x: 30, y: 6}
+        - {x: 23, y: 21}
+    - name: bicicleta_43
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21, y: 21}
+        - {x: -24, y: 19}
+        - {x: -24, y: -11}
+        - {x: -18, y: -27}
+        - {x: 30, y: -27}
+        - {x: 30, y: 21}
+    - name: bicicleta_44
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 21}
+        - {x: -24, y: 15}
+        - {x: -24, y: -10}
+        - {x: -15, y: -26}
+        - {x: -7, y: -27}
+        - {x: 30, y: -27}
+        - {x: 30, y: 21}
+    - name: bicicleta_45
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 21}
+        - {x: -24, y: 10}
+        - {x: -24, y: -3}
+        - {x: -16, y: -19}
+        - {x: 4, y: -27}
+        - {x: 27, y: -27}
+        - {x: 30, y: -18}
+        - {x: 30, y: 15}
+        - {x: 26, y: 21}
+    - name: bicicleta_46
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 21}
+        - {x: -24, y: 16}
+        - {x: -24, y: -4}
+        - {x: -15, y: -19}
+        - {x: 6, y: -27}
+        - {x: 25, y: -27}
+        - {x: 29, y: -26}
+        - {x: 30, y: -23}
+        - {x: 30, y: 17}
+        - {x: 28, y: 21}
+    - name: bicicleta_47
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22, y: 21}
+        - {x: -24, y: 20}
+        - {x: -24, y: -18}
+        - {x: -8, y: -27}
+        - {x: 30, y: -27}
+        - {x: 30, y: 21}
+    - name: bicicleta_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 22}
+        - {x: -17, y: 19}
+        - {x: -17, y: -19}
+        - {x: -4, y: -31}
+        - {x: 15, y: -31}
+        - {x: 27, y: -22}
+        - {x: 27, y: 11}
+        - {x: 24, y: 22}
+    - name: bicicleta_49
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 22}
+        - {x: -17, y: 19}
+        - {x: -17, y: -20}
+        - {x: -5, y: -28}
+        - {x: -1, y: -30}
+        - {x: 12, y: -30}
+        - {x: 27, y: -25}
+        - {x: 27, y: 22}
+    - name: bicicleta_50
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: -15}
+        - {x: -6, y: -31}
+        - {x: 9, y: -31}
+        - {x: 27, y: -23}
+        - {x: 27, y: 22}
+        - {x: -9, y: 22}
+        - {x: -17, y: 15}
+    - name: bicicleta_51
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 22}
+        - {x: -17, y: -31}
+        - {x: 7, y: -31}
+        - {x: 27, y: -20}
+        - {x: 27, y: 12}
+        - {x: 14, y: 22}
+    - name: bicicleta_52
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 22}
+        - {x: -17, y: -21}
+        - {x: -9, y: -31}
+        - {x: 5, y: -31}
+        - {x: 27, y: -16}
+        - {x: 27, y: 12}
+        - {x: 15, y: 22}
+    - name: bicicleta_53
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 22}
+        - {x: -17, y: 19}
+        - {x: -17, y: -20}
+        - {x: -5, y: -30}
+        - {x: 15, y: -30}
+        - {x: 27, y: -17}
+        - {x: 27, y: 10}
+        - {x: 22, y: 22}
+    - name: bicicleta_54
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 22}
+        - {x: -17, y: -16}
+        - {x: -6, y: -27}
+        - {x: -1, y: -31}
+        - {x: 7, y: -31}
+        - {x: 27, y: -15}
+        - {x: 27, y: 12}
+        - {x: 15, y: 22}
+    - name: bicicleta_55
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: -19}
+        - {x: -9, y: -30}
+        - {x: 7, y: -30}
+        - {x: 27, y: -18}
+        - {x: 27, y: -4}
+        - {x: 19, y: 20}
+        - {x: 6, y: 22}
+        - {x: -11, y: 22}
+        - {x: -17, y: 19}
+    - name: bicicleta_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 21}
+        - {x: -23, y: -27}
+        - {x: 4, y: -27}
+        - {x: 15, y: -24}
+        - {x: 27, y: -11}
+        - {x: 27, y: 7}
+        - {x: 20, y: 21}
+    - name: bicicleta_57
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22, y: 21}
+        - {x: -23, y: 18}
+        - {x: -23, y: -27}
+        - {x: 9, y: -27}
+        - {x: 16, y: -25}
+        - {x: 28, y: -10}
+        - {x: 28, y: 19}
+        - {x: 14, y: 21}
+    - name: bicicleta_58
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21, y: 21}
+        - {x: -23, y: 20}
+        - {x: -23, y: -27}
+        - {x: -8, y: -27}
+        - {x: 25, y: -16}
+        - {x: 27, y: -13}
+        - {x: 27, y: 11}
+        - {x: 16, y: 21}
+    - name: bicicleta_59
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 21}
+        - {x: -23, y: -27}
+        - {x: 17, y: -27}
+        - {x: 28, y: -10}
+        - {x: 28, y: 11}
+        - {x: 20, y: 21}
+    - name: bicicleta_60
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 21}
+        - {x: -20, y: 18}
+        - {x: -20, y: 17}
+        - {x: -23, y: -1}
+        - {x: -23, y: -24}
+        - {x: -22, y: -30}
+        - {x: 32, y: -30}
+        - {x: 32, y: 1}
+        - {x: 14, y: 21}
+    - name: bicicleta_61
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32, y: -30}
+        - {x: 32, y: -30}
+        - {x: 32, y: 14}
+        - {x: 31, y: 21}
+        - {x: -20, y: 21}
+        - {x: -32, y: -1}
+    - name: bicicleta_62
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 21}
+        - {x: -32, y: 17}
+        - {x: -32, y: -30}
+        - {x: 32, y: -30}
+        - {x: 32, y: 8}
+        - {x: 30, y: 21}
+    - name: bicicleta_63
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16, y: 21}
+        - {x: -23, y: 21}
+        - {x: -32, y: -1}
+        - {x: -32, y: -29}
+        - {x: -31, y: -30}
+        - {x: 25, y: -30}
+        - {x: 30, y: -25}
+        - {x: 30, y: -9}
+        - {x: 26, y: 9}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

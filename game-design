@@ -1,0 +1,86 @@
+Satan's bike
+
+Resumo
+
+    Satan's bike será um jogo de estilo plataforma onde o jogador controla uma bicicleta possuída por espíritos maléficos, chamada Satan's Bike, que fugiu de seu dono Murilo. O jogo será composto por duas fases. A primeira se passará nas ruas da cidade de Uberaba e a Satan's Bike tentará fugir de seu dono Murilo, que estará voando em seu foguete em busca da bicicleta fugitiva. Nas ruas de Uberaba o jogador enfrentará diversos desafios que poderão atrasar seu percurso, assim como: rampas, buracos, terrenos irregulares e caminhos
+    sem saída. No final da primeira fase a Satan's Bike consegue escapar temporariamente de Murilo por meio de uma passagem que a levará para o Parque do Pardal, onde será a segunda fase. No Parque do Pardal a Satan's Bike encontrará novos desafios tais como: animais enfurecidos, corredores maratonistas e troncos de árvores. No final dessa fase, Murilo encontrará a Satan's bike perto de um penhasco e a batalha final se iniciará. Nesse desafio a Satan's Bike precisa atordoar Murilo para
+    seguir seu caminho de liberdade.
+    O objetivo principal do jogo é garantir a liberdade da Satan's Bike no menor tempo possível. Durante a sua fuga, a ela encontrará itens amaldiçoados que diminuirão o tempo gasto.
+
+Personagens
+
+- Satan's Bike: personagem principal
+- Pomba: inimigo 
+- Macaco: inimigo 
+- Cogumelo: inimigo 
+- Corredor maratonista: inimigo 
+- Murilo: boss
+
+
+Itens
+
+Relógio amaldiçoado: diminui 10 segundos do tempo de jogo
+Ampulheta amaldiçoada: diminui 5 segundos do tempo de jogo
+
+
+Outros objetos
+
+Rampa, buraco, terreno regular, terreno irregular, muro, tronco e banana.
+
+Cenários
+
+- Fase 1: prédio, céu, nuvem, árvore
+- Fase 2: Árvore, grama, galho, caixa de abelha
+
+Funcionalidades
+
+Personagem principal
+
+- Aceleração: permitirá o deslocamento para ambos os lados
+- Freio: permitirá a desaceleração
+- Empinar: permitirá que movimente-se somente com a roda traseira por 2 segundos
+- Salto: permitirá o salto quando interagir com objetos específicos
+
+Pomba
+
+- Voar: se move no ar entre um percurso
+- Cagar: defeca aleatoriamente
+
+Macaco
+
+- Atacar: joga bananas em um alvo fixo periodicamente
+
+Cogumelo
+
+- Envenenar: inverte os controles do jogador principal 
+
+Corredor maratonista
+
+- Correr: se move rapidamente na direção oposto do personagem principal
+
+Murilo
+
+- Voa: personagem fica suspenso no ar
+- Ataque: voa agressivamente em direção ao personagem principal
+- Estado de atordoamento: fica atordoado temporariamente ao colidir-se com o chão
+
+
+GUI
+
+- Tempo: mostra o tempo gasto desde o início do jogo
+- Velocímetro: mostra a velocidade do personagem principal em quilômetros por hora
+
+
+Interações
+
+- Personagem-Chão: personagem deve permanecer sobre o chão
+- Personagem-ChãoIrregular: duas interações poderão ocorrer. Se o personagem estiver empinado sua velocidade se manterá, caso contrário o personagem será desacelerado
+- Personagem-Rampa: ao empinar, personagem realiza um salto utilizando a rampa
+- Personagem-Parede: o personagem não passará por paredes
+- Buraco-Personagem: ao cair em um buraco, o personagem morrerá
+- Banana-Personagem: ao encostar em uma banana em movimento o personagem morrerá
+- Coco-Personagem: ao encostar em um coco de pomba o personagem morrerá
+- Veneno-Personagem: ao encostar no veneno do cogumelo o personagem é infectado
+- Inimigo-Personagem: ao encostar em um inimigo, duas interações poderão ocorrer. Se o personagem estiver empinado o inimigo morre se não for Murilo, caso contrário o personagem morre
+- Murilo-Chão: em um ataque, ao encostar no chão, murilo é atordoado
+- Murilo-Personagem: ao encostar em Murilo, duas interações poderão ocorrer. Se o personagem estiver empinado e Murilo estiver atordoado, Murilo sofrerá um ataque, caso contrário, o personagem morre

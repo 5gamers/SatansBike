@@ -1,0 +1,38 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\MuriloContact.cs">
+    <Files>
+      <File FileName="Assets\Scripts\Murilo2Behavior.cs" Line="79" Column="42" />
+      <File FileName="Assets\Scripts\MoveBird.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\GameControllerScript.cs" Line="32" Column="31" />
+      <File FileName="Assets\Scripts\PlayerController.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\SpawnEnemies.cs" Line="40" Column="3" />
+      <File FileName="Assets\Scripts\NextScene.cs" Line="1" Column="1" />
+      <File FileName="..\5gamers\SatansBike\Game\Assets\scripts\GameControllerScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\EnemyContact.cs" Line="44" Column="8" />
+      <File FileName="Assets\scripts\Spawn.cs" Line="41" Column="40" />
+      <File FileName="Assets\scripts\MoveObjeto.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\ground.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\BirdAtackluiz.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\mushroom.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\GetId.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\EndFase1.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\FadeInFadeOut.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\DestroyByContact.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\ThrowableScript.cs" Line="25" Column="3" />
+      <File FileName="Assets\Scripts\MuriloController.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\MuriloBossController.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\RotationAmp.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\RampUpController.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\RampDownController.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\MovePlataform.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\RunnerController.cs" Line="26" Column="31" />
+      <File FileName="Assets\Scripts\MuriloContact.cs" Line="56" Column="12" />
+      <File FileName="Assets\Scripts\murilo1.cs" Line="18" Column="35" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
